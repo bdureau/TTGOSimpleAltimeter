@@ -8,6 +8,7 @@ You will need to download the Arduino ide from the [Arduino web site](https://ww
 Make sure that you install ESP32 support
 The project depend on the following libraries
   - TFT
+  - TFT_eSPI
   - Button2
   - uiwidgets
   
