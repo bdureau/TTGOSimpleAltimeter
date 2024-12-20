@@ -2,6 +2,10 @@
 Simple altimeter that will do what a Joly logic or Estes altimeter does
 using the [LILYGO T-QT Pro](https://www.lilygo.cc/products/t-qt-pro?srsltid=AfmBOopF1SZ4JgGggyEN98mcQudv0hQCX8_p8glDDWhrxQgzO5AKA-nX) board
 
+The altimeter looks like the following
+
+<img src="/photos/ttgo-t-qt-simple-altimeter.jpg" width="35%">
+
 # Building the code
 
 You will need to download the Arduino ide from the [Arduino web site](https://www.arduino.cc/). 
